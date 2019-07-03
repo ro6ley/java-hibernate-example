@@ -10,8 +10,6 @@ import javax.persistence.Table;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
 
-
-
 /**
  * This class will represent our phone and its attributes:
  * - ID
