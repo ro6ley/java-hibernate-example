@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.io/ro6ley/java-hibernate-example.svg)](http://hits.dwyl.io/ro6ley/java-hibernate-example)
 
-# Hibernate: Easing Data Management in Spring
+# Hibernate: Simplifying Database Management in Spring
 
 This repository contains the code for this [blogpost]() on [StackAbuse](https://stackabuse.com/).
 
