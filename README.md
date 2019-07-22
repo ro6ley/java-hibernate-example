@@ -1,8 +1,8 @@
 [![HitCount](http://hits.dwyl.io/ro6ley/java-hibernate-example.svg)](http://hits.dwyl.io/ro6ley/java-hibernate-example)
 
-# Hibernate: Simplifying Database Management in Spring
+# Implementing Hibernate with Spring Boot and PostgreSQL
 
-This repository contains the code for this [blogpost]() on [StackAbuse](https://stackabuse.com/).
+This repository contains the code for this [blogpost](https://stackabuse.com/implementing-hibernate-with-spring-boot-and-postgresql/) on [StackAbuse](https://stackabuse.com/).
 
 ## Getting Started
 
